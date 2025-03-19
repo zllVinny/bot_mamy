@@ -15,7 +15,7 @@ async def start(message: types.Message):
     print(f"Mensagem recebida de {message.from_user.first_name}: {message.text}")  # Debug
 
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text="🔞 Grupo de Prévias", url="https://t.me/+t1UoLIfgBhszOWEx")],
+        [InlineKeyboardButton(text="🔞 Grupo de Prévias", url="https://t.me/+Qq6PHRKJuLNjNDgx")],
         [InlineKeyboardButton(text="💰 Privacy", url="https://privacy.com.br/checkout/mariarosagacina")],
         [InlineKeyboardButton(text="🐦 Twitter", url="https://x.com/mariarosagacina")],
         [InlineKeyboardButton(text="📸 Instagram", url="https://www.instagram.com/mariarosagacina/")]
