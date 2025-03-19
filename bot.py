@@ -22,8 +22,8 @@ async def start(message: types.Message):
     ])
 
     await message.answer(
-        f"Olá, {message.from_user.first_name}! 🔥\n\n"
-        "Bem-vindo ao bot da Mamy! ‍🔥🌹👠\n\n"
+        f"Olá,SubMor!Maria Rosa aqui! 🌹\n\n"
+	"Seja bem-vindo ao bot da Mammy!🌹🔥👠🌹\n\n"
 	"Escolha uma opção abaixo para continuar:",
         reply_markup=keyboard
     )
